@@ -1,2 +1,0 @@
-# rusty
-rust sample scripts
